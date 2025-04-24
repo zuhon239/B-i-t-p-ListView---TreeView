@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView-TreeView", "ListView-TreeView\ListView-TreeView.csproj", "{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {463DF085-22DC-4785-9CA3-90386E44A808}
+	EndGlobalSection
+EndGlobal

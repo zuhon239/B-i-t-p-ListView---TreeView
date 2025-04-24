@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|s:\\\u0111a\u0323i ho\u0323c\\ph\u00E1t tri\u1EC3n desktop\\b\u00E0i t\u1EADp\\bu\u1ED5i 5\\listview-treeview\\listview-treeview\\quanlytruong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|solutionrelative:listview-treeview\\quanlytruong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|s:\\\u0111a\u0323i ho\u0323c\\ph\u00E1t tri\u1EC3n desktop\\b\u00E0i t\u1EADp\\bu\u1ED5i 5\\listview-treeview\\listview-treeview\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|solutionrelative:listview-treeview\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|s:\\\u0111a\u0323i ho\u0323c\\ph\u00E1t tri\u1EC3n desktop\\b\u00E0i t\u1EADp\\bu\u1ED5i 5\\listview-treeview\\listview-treeview\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|solutionrelative:listview-treeview\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|s:\\\u0111a\u0323i ho\u0323c\\ph\u00E1t tri\u1EC3n desktop\\b\u00E0i t\u1EADp\\bu\u1ED5i 5\\listview-treeview\\listview-treeview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|solutionrelative:listview-treeview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|s:\\\u0111a\u0323i ho\u0323c\\ph\u00E1t tri\u1EC3n desktop\\b\u00E0i t\u1EADp\\bu\u1ED5i 5\\listview-treeview\\listview-treeview\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|solutionrelative:listview-treeview\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|s:\\\u0111a\u0323i ho\u0323c\\ph\u00E1t tri\u1EC3n desktop\\b\u00E0i t\u1EADp\\bu\u1ED5i 5\\listview-treeview\\listview-treeview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EBDA0AF-BBB7-4092-BBC7-C4D53BA5B8CB}|ListView-TreeView\\ListView-TreeView.csproj|solutionrelative:listview-treeview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyTruong.cs",
+              "DocumentMoniker": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\QuanLyTruong.cs",
+              "RelativeDocumentMoniker": "ListView-TreeView\\QuanLyTruong.cs",
+              "ToolTip": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\QuanLyTruong.cs",
+              "RelativeToolTip": "ListView-TreeView\\QuanLyTruong.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAF4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:58:18.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Program.cs",
+              "RelativeDocumentMoniker": "ListView-TreeView\\Program.cs",
+              "ToolTip": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Program.cs",
+              "RelativeToolTip": "ListView-TreeView\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:57:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\SinhVien.cs",
+              "RelativeDocumentMoniker": "ListView-TreeView\\SinhVien.cs",
+              "ToolTip": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\SinhVien.cs",
+              "RelativeToolTip": "ListView-TreeView\\SinhVien.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:57:41.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Lop.cs",
+              "RelativeDocumentMoniker": "ListView-TreeView\\Lop.cs",
+              "ToolTip": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Lop.cs",
+              "RelativeToolTip": "ListView-TreeView\\Lop.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAF0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:57:14.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Khoa.cs",
+              "RelativeDocumentMoniker": "ListView-TreeView\\Khoa.cs",
+              "ToolTip": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Khoa.cs",
+              "RelativeToolTip": "ListView-TreeView\\Khoa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:56:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Form1.cs",
+              "RelativeDocumentMoniker": "ListView-TreeView\\Form1.cs",
+              "ToolTip": "S:\\\u0111a\u0323i ho\u0323c\\Ph\u00E1t tri\u1EC3n desktop\\B\u00E0i t\u1EADp\\Bu\u1ED5i 5\\ListView-TreeView\\ListView-TreeView\\Form1.cs [Design]",
+              "RelativeToolTip": "ListView-TreeView\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:55:34.461Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
