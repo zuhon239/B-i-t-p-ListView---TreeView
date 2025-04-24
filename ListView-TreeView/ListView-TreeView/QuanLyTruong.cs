@@ -19,7 +19,6 @@ namespace ListView_TreeView
             this.dsSinhVien = new Dictionary<string, SinhVien>();
         }
 
-        // Thêm khoa mới
         public void ThemKhoa(Khoa khoa)
         {
             dsKhoa[khoa.MaKhoa] = khoa;
